@@ -1,0 +1,10 @@
+.membercard {
+  padding: 20px;
+  background-color: orange;
+  color: white;
+  width: 200px;
+}
+.member-sub-heading {
+  color: blue;
+  font-weight: bold;
+}

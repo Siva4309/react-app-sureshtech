@@ -1,0 +1,26 @@
+.scoreboard-container {
+  background-color: var(--primary-clor);
+  height: 200px;
+}
+
+.score {
+  font-size: 70px;
+  color: black;
+}
+.score-button {
+  padding: 10px 30px;
+  background-color: var(--secondary-color);
+  margin: 20px;
+  color: white;
+  font-size: 30px;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.score-button:hover {
+  cursor: pointer;
+  background-color: brown;
+}

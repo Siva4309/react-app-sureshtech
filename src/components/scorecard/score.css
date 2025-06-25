@@ -1,0 +1,15 @@
+.scoreboard-container {
+  background-color: var(--primary-clor);
+  height: 200px;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.score {
+  font-size: 70px;
+  color: black;
+}

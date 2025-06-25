@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --primary-clor: rgb(61, 195, 37);
+  --secondary-color: rgb(32, 146, 146);
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
